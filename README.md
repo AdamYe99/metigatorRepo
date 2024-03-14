@@ -1,7 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=metigator&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metigator&hide_progress=true)
-<br><br>
-**** 
 🚩 Mastering C#
 ---
 <br>➩ ***Basic***<br><br>
